@@ -16,3 +16,4 @@
 | Branch                                 | SoC                               | Kernel Version                    | Link                              |
 | :------------------------------------  | :-------------------------------- | :-------------------------------- | :-------------------------------- |
 | `AGS2_AL00_02_HarmonyOS_opensource`    | `hi6250`                          | `v4.9.148`                        | [Here](https://github.com/hisi-oss/kernel_tarballs/tree/AGS2_AL00_02_HarmonyOS_opensource) |
+| `MHA-AL00_02_HarmonyOS_opensource`     | `hi3660`                          | `v4.9.148`                        | [Here](https://github.com/hisi-oss/kernel_tarballs/tree/MHA-AL00_02_HarmonyOS_opensource) |
